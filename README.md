@@ -21,9 +21,11 @@ symmetric key is not known earlier to sender and receiver they will be shared
 
 server:
 
-![image](https://user-images.githubusercontent.com/89848299/201416393-bcc11e0f-afb4-4cc0-b642-0aaf69fbb37d.png)
+![image](https://user-images.githubusercontent.com/89848299/201417413-e1606870-4616-457f-97ee-caf0fa7bc6ef.png)
+
 
 
 client:
 
-![image](https://user-images.githubusercontent.com/89848299/201416474-09ab6ab1-851b-46d2-ac20-52033203dc80.png)
+![image](https://user-images.githubusercontent.com/89848299/201417471-6133ad37-7c23-4b85-8567-984ead4ab42a.png)
+
