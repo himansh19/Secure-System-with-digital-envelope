@@ -18,8 +18,14 @@ symmetric key is not known earlier to sender and receiver they will be shared
 11. both side authentication complete
 12. for simplicity here take symmetric key as x*y i.e client key*server key
 13. now both will communicate using their symmetric key
+
 server:
-image.png
+
+![image](https://user-images.githubusercontent.com/89848299/201417413-e1606870-4616-457f-97ee-caf0fa7bc6ef.png)
+
+
 
 client:
-image.png
+
+![image](https://user-images.githubusercontent.com/89848299/201417471-6133ad37-7c23-4b85-8567-984ead4ab42a.png)
+
