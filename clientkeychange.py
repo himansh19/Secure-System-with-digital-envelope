@@ -156,7 +156,7 @@ recreq = s.recv(1024).decode()    # receive hias reuest
 print('received encrypted text: ',recreq)
 recdat,recenhas=d1(recreq)  # decrypt to get data & hash
 recdecdat=decrypt(prc,recdat)
-print('decrypted msg using symmetric key: ',recdecdat)
+print('decrypted msg using my private key: ',recdecdat)
 print('decrypted hash: ',recenhas)
 
 rechas1=hash1(recdecdat)    #calculate hash value of received data
